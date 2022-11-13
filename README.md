@@ -19,10 +19,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Alexia wiersma
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
+
+  https://github.com/Alexiatech/FED
  
 </details>
 
@@ -40,11 +42,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/homepage.jpg" width="375px" alt="de home page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/castpage.jpg" width="375px" alt="2de pagina">
  
 </details>
 
