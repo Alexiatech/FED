@@ -32,6 +32,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
+
+https://alexiatech.github.io/FED/
+
+
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
